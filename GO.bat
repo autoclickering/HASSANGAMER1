@@ -1,3 +1,0 @@
-node Dream.js
-
-pause
